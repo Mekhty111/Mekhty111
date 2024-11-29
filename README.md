@@ -1,16 +1,50 @@
-## Hi there 👋
+✨ Обо мне за 30 секунд ✨
 
-<!--
-**Mekhty111/Mekhty111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ASUOI - Азербайджанский государственный университет нефти и химии - Компьютерные науки:
+Бакалавр: 25.09.26 - Информационные системы и технологии (Информационные системы аэрокосмических комплексов);
+🤖 Варюсь в Data Science с 2023
+✈ Область научных интересов: использование методов машинного обучения и компьютерного зрения.
+💡 Основные компетенции 💡
 
-Here are some ideas to get you started:
+Инструменты: SQL, Python, C++, Power BI, NiFi, Pentaho
+Skills:
+Hard skills:
+Mathematical statistics;
+Data Preprocessing and Data Analysis;
+Machine Learning and Deep Learning;
+CV and NLP;
+Relational Databases;
+Dashboard Design and Development;
+Soft skills:
+Learning;
+Communication skills;
+Team player;
+Management;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡️ В настоящее время ⚡️
+    ...
+
+🙌🏻 Свяжись со мной
+
+[Telegram](https://t.me/mousttym)
+Kaggle
+Hello! 👋
+
+✨ About me in 30 seconds ✨
+
+🎓ASUOI - Azerbaijan state oil and industrial university 
+Bachelor's degree:: 25.09.26 - Computer Science ;
+🤖 I've been cooking in Data Science since 2023
+✈ Research interests: using machine learning and computer vision methods.
+💡 Core competencies 💡
+
+Tools: SQL, Python, C++
+Skills:
+Hard skills: * Mathematical statistics; * Data Preprocessing and Data Analysis; * Machine Learning and Deep Learning; * CV and NLP; * Relational Databases; * Dashboard Design and Development;
+Soft skills: * Learning; * Communication skills; * Team player; * Management;
+⚡️ Currently ⚡️
+    ...
+🙌🏻 Contact me
+
+Telegram
+Kaggle

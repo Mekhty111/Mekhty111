@@ -9,18 +9,18 @@
 
 ### Инструменты: SQL, Python
 #### Skills:
-* Hard skills:
-* * Mathematical statistics;
-* * Data Preprocessing and Data Analysis;
-* * Machine Learning and Deep Learning;
-* * CV and NLP;
-* * Relational Databases;
-* * Dashboard Design and Development;
-* Soft skills:
-* * Learning;
-* * Communication skills;
-* * Team player;
-* * Management;
+ Hard skills:
+ * Mathematical statistics;
+ * Data Preprocessing and Data Analysis;
+ * Machine Learning and Deep Learning;
+ * CV and NLP;
+ * Relational Databases;
+ * Dashboard Design and Development;
+ Soft skills:
+ * Learning;
+ * Communication skills;
+ * Team player;
+ * Management;
  
 
 

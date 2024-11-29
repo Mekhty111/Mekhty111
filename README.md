@@ -7,15 +7,15 @@
 
 # 💡 Основные компетенции 💡
 
-Инструменты: SQL, Python
-* Skills:
+### Инструменты: SQL, Python
+#### Skills:
 * Hard skills:
-* Mathematical statistics;
-* Data Preprocessing and Data Analysis;
-* Machine Learning and Deep Learning;
-* CV and NLP;
-* Relational Databases;
-* Dashboard Design and Development;
+* * Mathematical statistics;
+* * Data Preprocessing and Data Analysis;
+* * Machine Learning and Deep Learning;
+* * CV and NLP;
+* * Relational Databases;
+* * Dashboard Design and Development;
 * Soft skills:
 * * Learning;
 * * Communication skills;

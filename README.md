@@ -28,24 +28,34 @@ Management;
 🙌🏻 Свяжись со мной
 
 [Telegram](https://t.me/mousttym)
-Kaggle
+[Kaggle](https://www.kaggle.com/mekhtymekhtyev)
 Hello! 👋
 
 ✨ About me in 30 seconds ✨
 
-🎓ASOIU - Azerbaijan state oil and industrial university 
-Bachelor's degree:: 25.09.26 - Computer Science ;
-🤖 I've been cooking in Data Science since 2023
-✈ Research interests: using machine learning and computer vision methods.
+* 🎓ASOIU - Azerbaijan state oil and industrial university 
+** Bachelor's degree:: 25.09.26 - Computer Science ;
+* 🤖 I've been cooking in Data Science since 2023
+* ✈ Research interests: using machine learning and computer vision methods.
+  
 💡 Core competencies 💡
 
 Tools: SQL, Python, C++
 Skills:
-Hard skills: * Mathematical statistics; * Data Preprocessing and Data Analysis; * Machine Learning and Deep Learning; * CV and NLP; * Relational Databases; * Dashboard Design and Development;
-Soft skills: * Learning; * Communication skills; * Team player; * Management;
+Hard skills: * Mathematical statistics
+* Data Preprocessing and Data Analysis
+* Machine Learning and Deep Learning
+* CV and NLP
+* Relational Databases
+* Dashboard Design and Development
+Soft skills:
+* Learning
+* * Communication skills
+  * * Team player
+    * * Management;
 ⚡️ Currently ⚡️
     ...
 🙌🏻 Contact me
 
-Telegram
-Kaggle
+[Telegram](https://t.me/mousttym)
+[Kaggle](https://www.kaggle.com/mekhtymekhtyev)

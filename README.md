@@ -7,20 +7,20 @@
 
 💡 Основные компетенции 💡
 
-Инструменты: SQL, Python, C++, Power BI, NiFi, Pentaho
-Skills:
-Hard skills:
-Mathematical statistics;
-Data Preprocessing and Data Analysis;
-Machine Learning and Deep Learning;
-CV and NLP;
-Relational Databases;
-Dashboard Design and Development;
-Soft skills:
-Learning;
-Communication skills;
-Team player;
-Management;
+Инструменты: SQL, Python
+* Skills:
+* Hard skills:
+* Mathematical statistics;
+* Data Preprocessing and Data Analysis;
+* Machine Learning and Deep Learning;
+* CV and NLP;
+* Relational Databases;
+* Dashboard Design and Development;
+* Soft skills:
+** Learning;
+** Communication skills;
+** Team player;
+** Management;
 
 ⚡️ В настоящее время ⚡️
     ...
@@ -40,19 +40,21 @@ Hello! 👋
   
 💡 Core competencies 💡
 
-Tools: SQL, Python, C++
+Tools: SQL, Python
 Skills:
-Hard skills: * Mathematical statistics
+Hard skills: 
+* Mathematical statistics
 * Data Preprocessing and Data Analysis
 * Machine Learning and Deep Learning
 * CV and NLP
 * Relational Databases
 * Dashboard Design and Development
-Soft skills:
-* Learning
-* * Communication skills
-  * * Team player
-    * * Management;
+* Soft skills:
+** Learning
+** Communication skills
+** Team player
+* * Management;
+    
 ⚡️ Currently ⚡️
     ...
 🙌🏻 Contact me

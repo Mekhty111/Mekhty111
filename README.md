@@ -16,6 +16,7 @@ Hard skills:
  * CV and NLP;
  * Relational Databases;
  * Dashboard Design and Development;
+   
 Soft skills:
  * Learning;
  * Communication skills;
@@ -69,20 +70,22 @@ Hello! 👋
   
 # 💡 Core competencies 💡
 
-Tools: SQL, Python
-Skills:
-Hard skills: 
-* Mathematical statistics
-* Data Preprocessing and Data Analysis
-* Machine Learning and Deep Learning
-* CV and NLP
-* Relational Databases
-* Dashboard Design and Development
-* Soft skills:
-* * Learning
-* * Communication skills
-* * Team player
-* * Management;
+### Tools: SQL, Python
+#### Skills:
+Hard skills:
+ * Mathematical statistics;
+ * Data Preprocessing and Data Analysis;
+ * Machine Learning and Deep Learning;
+ * CV and NLP;
+ * Relational Databases;
+ * Dashboard Design and Development;
+   
+Soft skills:
+ * Learning;
+ * Communication skills;
+ * Team player;
+ * Management;
+ 
     
 # ⚡️ Currently ⚡️
     ...

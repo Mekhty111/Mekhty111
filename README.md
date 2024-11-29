@@ -17,10 +17,10 @@
 * Relational Databases;
 * Dashboard Design and Development;
 * Soft skills:
-** Learning;
-** Communication skills;
-** Team player;
-** Management;
+* * Learning;
+* * Communication skills;
+* * Team player;
+* * Management;
 
 ⚡️ В настоящее время ⚡️
     ...
@@ -34,7 +34,7 @@ Hello! 👋
 ✨ About me in 30 seconds ✨
 
 * 🎓ASOIU - Azerbaijan state oil and industrial university 
-** Bachelor's degree:: 25.09.26 - Computer Science ;
+* * Bachelor's degree:: 25.09.26 - Computer Science ;
 * 🤖 I've been cooking in Data Science since 2023
 * ✈ Research interests: using machine learning and computer vision methods.
   
@@ -50,9 +50,9 @@ Hard skills:
 * Relational Databases
 * Dashboard Design and Development
 * Soft skills:
-** Learning
-** Communication skills
-** Team player
+* * Learning
+* * Communication skills
+* * Team player
 * * Management;
     
 ⚡️ Currently ⚡️

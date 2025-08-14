@@ -1,125 +1,104 @@
-# ✨ Обо мне за 30 секунд ✨
+# Hi there! 👋
 
-* 🎓 ASOIU - Азербайджанский государственный университет нефти и промышленности - Компьютерные науки:
-** Бакалавр: 25.09.26 - Информационные системы и технологии (Информационные системы аэрокосмических комплексов);
-* 🤖 Варюсь в Data Science с 2023
-* ✈ Область научных интересов: использование методов машинного обучения и компьютерного зрения.
+I'm Mehdi, a Data Scientist & ML Engineer from Azerbaijan.  
+Passionate about turning data into actionable insights using advanced machine learning and data science techniques.
 
-# 💡 Основные компетенции 💡
+🎓 Bachelor's in Computer Science, Azerbaijan State Oil and Industrial University (2022–2026)  
+📚 Currently advancing at Skillfactory DS & ML Engineer program (2024–2026) 
 
-### Инструменты: SQL, Python
-#### Skills:
-Hard skills:
- * Mathematical statistics;
- * Data Preprocessing and Data Analysis;
- * Machine Learning and Deep Learning;
- * CV and NLP;
- * Relational Databases;
- * Dashboard Design and Development;
-   
-Soft skills:
- * Learning;
- * Communication skills;
- * Team player;
- * Management;
- 
+---
 
+## 💡 Core Competencies
 
-<h3 align="left">🛠 Language and tools</h3>
+### Data Preprocessing & Feature Engineering
+- Feature selection & extraction  
+- Handling missing data & outliers  
+- Encoding (One-Hot, Binary, Ordinary Encoding)  
+- Scaling & normalization (StandardScaler, MinMaxScaler, RobustScaler)  
+- Generating polynomial & interaction features  
+- Dimensionality reduction (PCA, t-SNE)  
+- Regularization (L1, L2, ElasticNet)  
+- Data splitting & cross-validation  
+- Balancing imbalanced datasets (undersampling, oversampling, SMOTE)  
+- **Designing full data pipelines, including custom transformers (sklearn, custom modules), and model selection**
+- **Hyperparameter tuning using GridSearchCV, RandomizedSearchCV, and other modern tools**
 
-###
+### Supervised Learning
+- Linear & logistic regression  
+- Decision trees, random forests  
+- Gradient boosting (XGBoost, LightGBM, CatBoost)  
+- Support Vector Machines (SVM)  
+- Neural networks (MLP using Keras & PyTorch)  
 
-<div align="left">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mekhty111&locale=ru)](https://git.io/streak-stats)
-###
-
-# ⚡️ В настоящее время ⚡️
-    ...
-
-# 🙌🏻 Свяжись со мной
-
-[Telegram](https://t.me/mousttym)
-[Kaggle](https://www.kaggle.com/mekhtymekhtyev)
-Hello! 👋
-
-# ✨ About me in 30 seconds ✨
-
-* 🎓ASOIU - Azerbaijan state oil and industrial university 
-* * Bachelor's degree:: 25.09.26 - Computer Science ;
-* 🤖 I've been cooking in Data Science since 2023
-* ✈ Research interests: using machine learning and computer vision methods.
+### Unsupervised Learning
+- Clustering (K-means, DBSCAN, hierarchical)  
+- Anomaly detection  
+- Topic modeling (LDA)  
+- Dimensionality reduction for visualization & preprocessing
   
-# 💡 Core competencies 💡
+---
+## 🛠️ Tools & Technologies
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/><br />
+      <sub>Python</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/><br />
+      <sub>NumPy</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/><br />
+      <sub>Pandas</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn"/><br />
+      <sub>scikit-learn</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="Keras"/><br />
+      <sub>Keras</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch"/><br />
+      <sub>PyTorch</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"/><br />
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/><br/>
+      <sub>Matplotlib</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="48" alt="Plotly"/><br/>
+      <sub>Plotly</sub>
+    </td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker"/><br/><sub>Docker</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="44" alt="Flask"/><br/><sub>Flask</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="44" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+  </tr>
+</table>
 
-### Tools: SQL, Python
-#### Skills:
-Hard skills:
- * Mathematical statistics;
- * Data Preprocessing and Data Analysis;
- * Machine Learning and Deep Learning;
- * CV and NLP;
- * Relational Databases;
- * Dashboard Design and Development;
-   
-Soft skills:
- * Learning;
- * Communication skills;
- * Team player;
- * Management;
- 
-    
-# ⚡️ Currently ⚡️
-    ...
+---
+## 🔥 GitHub Stats
 
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mekhty111)](https://git.io/streak-stats)
-###
 
+---
 
-# 🙌🏻 Contact me
+## 🙌🏻 Contact Me
 
-[Telegram](https://t.me/mousttym)
-[Kaggle](https://www.kaggle.com/mekhtymekhtyev)
+- 📧 Email: mehti5678@gmail.com  
+- [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="18"/> Telegram](https://t.me/mousttym)
+- [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="18"/> Kaggle](https://www.kaggle.com/mekhtymekhtyev)
+- [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18"/> LinkedIn](https://www.linkedin.com/in/mekhty-mekhtyev/)
+---
+
+## Languages
+
+- Azerbaijani (Native)  
+- Russian (Native)  
+- English (Upper Intermediate)

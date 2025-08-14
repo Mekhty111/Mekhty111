@@ -41,22 +41,22 @@ Passionate about turning data into actionable insights using advanced machine le
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="58" alt="Python"/><br />
       <sub>Python</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="58" alt="NumPy"/><br />
       <sub>NumPy</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/><br />
       <sub>Pandas</sub>
     </td>
-    <td align="center">
+    <td align="center" valign="bottom">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn"/><br />
       <sub>scikit-learn</sub>
     </td>
-    <td align="center">
+    <td align="center" valign="bottom">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="Keras"/><br />
       <sub>Keras</sub>
     </td>
@@ -72,13 +72,13 @@ Passionate about turning data into actionable insights using advanced machine le
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/><br/>
       <sub>Matplotlib</sub>
     </td>
-    <td align="center">
+    <td align="center" valign="bottom">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="48" alt="Plotly"/><br/>
       <sub>Plotly</sub>
     </td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker"/><br/><sub>Docker</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="44" alt="Flask"/><br/><sub>Flask</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="44" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+    <td align="center" valign="bottom"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker"/><br/><sub>Docker</sub></td>
+    <td align="center" valign="bottom""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="44" alt="Flask"/><br/><sub>Flask</sub></td>
+    <td align="center" valign="bottom"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="44" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
   </tr>
 </table>
 
@@ -88,17 +88,31 @@ Passionate about turning data into actionable insights using advanced machine le
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mekhty111)](https://git.io/streak-stats)
 
 ---
-
 ## 🙌🏻 Contact Me
 
-- 📧 Email: mehti5678@gmail.com  
-- [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="18"/> Telegram](https://t.me/mousttym)
-- [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="18"/> Kaggle](https://www.kaggle.com/mekhtymekhtyev)
-- [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18"/> LinkedIn](https://www.linkedin.com/in/mekhty-mekhtyev/)
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:mehti5678@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="36" height="36" alt="Email"/>
+      </a><br/><sub>Email</sub>
+    </td>
+    <td align="center">
+      <a href="https://t.me/mousttym">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="36" height="36" alt="Telegram"/>
+      </a><br/><sub>Telegram</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/mekhtymekhtyev">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="36" height="36" alt="Kaggle"/>
+      </a><br/><sub>Kaggle</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mekhty-mekhtyev/">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="36" height="36" alt="LinkedIn"/>
+      </a><br/><sub>LinkedIn</sub>
+    </td>
+  </tr>
+</table>
+
 ---
-
-## Languages
-
-- Azerbaijani (Native)  
-- Russian (Native)  
-- English (Upper Intermediate)

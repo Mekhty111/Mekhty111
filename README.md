@@ -85,6 +85,6 @@ Passionate about turning data into actionable insights using advanced machine le
 ---
 ## 🔥 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mekhty111&theme=dark&border_radius=6.1&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mekhty111&theme=dark&border_radius=7)](https://git.io/streak-stats)
 
 ---

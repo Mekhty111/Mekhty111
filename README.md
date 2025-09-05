@@ -1,40 +1,15 @@
-# Hi there! 👋
+# Hi, I'm Mehdi 👋  
+Data Scientist & ML Engineer from Azerbaijan passionate about transforming data into actionable insights with advanced ML techniques.
 
-I'm Mehdi, a Data Scientist & ML Engineer from Azerbaijan.  
-Passionate about turning data into actionable insights using advanced machine learning and data science techniques.
+🎓 B.Sc. Computer Science, Azerbaijan State Oil and Industrial University (2022–2026)  
+📚 Currently advancing through Skillfactory DS & ML Engineer program (2024–2026)
 
-🎓 Bachelor's in Computer Science, Azerbaijan State Oil and Industrial University (2022–2026)  
-📚 Currently advancing at Skillfactory DS & ML Engineer program (2024–2026) 
+## Core Competencies  
+- Data preprocessing & feature engineering: missing data, encoding, scaling, feature generation, dimensionality reduction (PCA, t-SNE, UMAP)  
+- Model building & tuning: regression, tree ensembles (XGBoost, LightGBM, CatBoost), SVMs, neural nets (Keras & PyTorch)  
+- Unsupervised learning: clustering (K-means, DBSCAN), anomaly detection, topic modeling (LDA)  
+- Pipeline design & hyperparameter optimization: custom transformers, GridSearchCV, RandomizedSearchCV, Optuna
 
----
-
-## 💡 Core Competencies
-
-### Data Preprocessing & Feature Engineering
-- Feature selection & extraction  
-- Handling missing data & outliers  
-- Encoding (One-Hot, Binary, Ordinary Encoding)  
-- Scaling & normalization (StandardScaler, MinMaxScaler, RobustScaler)  
-- Generating polynomial & interaction features  
-- Dimensionality reduction (PCA, t-SNE)  
-- Regularization (L1, L2, ElasticNet)  
-- Data splitting & cross-validation  
-- Balancing imbalanced datasets (undersampling, oversampling, SMOTE)  
-- **Designing full data pipelines, including custom transformers (sklearn, custom modules), and model selection**
-- **Hyperparameter tuning using GridSearchCV, RandomizedSearchCV, and other modern tools**
-
-### Supervised Learning
-- Linear & logistic regression  
-- Decision trees, random forests  
-- Gradient boosting (XGBoost, LightGBM, CatBoost)  
-- Support Vector Machines (SVM)  
-- Neural networks (MLP using Keras & PyTorch)  
-
-### Unsupervised Learning
-- Clustering (K-means, DBSCAN, hierarchical)  
-- Anomaly detection  
-- Topic modeling (LDA)  
-- Dimensionality reduction for visualization & preprocessing
   
 ---
 ## 🛠️ Tools & Technologies
